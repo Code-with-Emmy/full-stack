@@ -1,0 +1,109 @@
+body {
+  background: gray;
+  font-family: "Playwrite CU Guides", cursive;
+}
+
+/* class */
+.text {
+  font-size: 50px;
+  color: aqua;
+  color: red;
+  color: green !important;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Element  */
+h1 {
+  font-size: 50px;
+  color: aqua;
+  /* color: red !important; */
+  color: green;
+}
+
+/* id Selcet  */
+/* #text {
+  color: aqua;
+}
+
+.text1 {
+  color: blue;
+  font-size: 50px;
+}
+
+.hello {
+  color: #708039;
+  font-size: 100px;
+}
+
+#hello {
+  color: #8a2f7f;
+  font-size: 50px;
+} */
+
+.parent h1 {
+  color: aqua;
+}
+
+.parent {
+  border: 2px;
+  color: red;
+}
+
+/* button {
+  color: black;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button:hover {
+  color: black;
+  background-color: blue;
+  border-radius: 10px;
+  padding: 10px;
+} */
+
+.btn1 {
+  color: black;
+  background-color: red;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn2 {
+  color: black;
+  background-color: blue;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn1:hover {
+  color: aliceblue;
+  background-color: green;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn2:hover {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 5);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+/* .hello {
+}
+
+#hello {
+  property: value;
+} */
+
+.value {
+  color: brown;
+  font-size: 30px;
+}
+
+#value {
+  color: blue;
+  font-size: 100px;
+}
